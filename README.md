@@ -63,3 +63,8 @@ Prefer no setup? Create a project at [Kortix](https://kortix.com) and start a se
 - [Running agents in the cloud](docs/running-agents-in-the-cloud.md)
 - [Kortix FAQ](docs/faq.md)
 - [Kortix on GitHub](https://github.com/kortix-ai/suna) and the [Kortix docs](https://kortix.com/docs)
+
+
+## Guides on the companion site
+
+The companion site has a guide for each step: [how to run an agent framework](https://opensourceaiagentframework.com/how-to-run-an-agent-framework) covers the runtime around the agents, [how to build an AI agent](https://opensourceaiagentframework.com/how-to-build-an-ai-agent) walks the build path from install to a merged change request, and [framework or platform](https://opensourceaiagentframework.com/framework-or-platform) explains which layer this starter belongs to.
